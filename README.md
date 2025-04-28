@@ -1,1 +1,2 @@
-https://github.com/rudra127d/1A.git
+
+https://rudra127d.github.io/1A/
